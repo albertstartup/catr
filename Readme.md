@@ -1,4 +1,4 @@
-# Dillinger
+# Catr
 
 - Install globaly: npm install -g catr
 - catr just takes one argument which is a string: catr "hello world"
