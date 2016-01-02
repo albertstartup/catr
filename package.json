@@ -1,0 +1,25 @@
+{
+  "name": "catr",
+  "version": "1.0.0",
+  "description": "Append to a Tumblr post from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/albertstartup/catr"
+  },
+  "keywords": [
+    "tumblr"
+  ],
+  "author": "Albert Martinez <albertstartup@gmail.com> (http://albert.website)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^0.11.1",
+    "open": "0.0.5",
+    "q": "^1.4.1",
+    "tumblr.js": "0.0.7",
+    "underscore": "^1.8.3"
+  }
+}
