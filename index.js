@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var Q = require('q'),
   tumblr = require('tumblr.js'),
   fs = require('fs'),
